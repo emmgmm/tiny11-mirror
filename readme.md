@@ -19,9 +19,9 @@ Whether you use this project or just like it, please consider supporting it by b
 ---
 
 ## Setup
-Download one of the ISO Files (b2 noreq - use this for old PCs/PCs that normally do not support Win11)
-Donwload https://rufus.ie/de/ - Enter the ISO, burn it to an USB Stick (16GB)
-Install Tiny-Windows11 :)
+- Download one of the ISO Files (b2 noreq - use this for old PCs/PCs that normally do not support Win11)
+- Donwload https://rufus.ie/de/ - Enter the ISO, burn it to an USB Stick (16GB)
+- Install Tiny-Windows11 :)
 
 ---
 
