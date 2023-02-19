@@ -2,7 +2,8 @@ Tiny-11 Mirror
 ============
 This is an EU mirror without annoying registration or the like to download the ISOs of Tiny11.  These are updated at least 1x per week. 
 
-#### Download the ISO Files here: https://onlinefileupload.de/share/oQv862Q7
+#### List of the ISO Files here: https://onlinefileupload.de/share/oQv862Q7
+##### Direkt Downlaod: <br>  - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?">Tiny 11 b1</a> 3GB<br> - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2.iso?">Tiny 11 b2</a> 3,6GB<br> - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?">Tiny 11 b2 (no sysreq)</a> 3,6GB
 
 ---
 ## Buy me a coffee
@@ -19,7 +20,7 @@ Whether you use this project or just like it, please consider supporting it by b
 ---
 
 ## Setup
-- Download one of the ISO Files (b2 noreq - use this for old PCs/PCs that normally do not support Win11)
+- Download one of the ISO Files (b2 no sysreq - use this for old PCs/PCs that normally do not support Win11)
 - Donwload https://rufus.ie/de/ - Enter the ISO, burn it to an USB Stick (16GB)
 - Install Tiny-Windows11 :)
 
