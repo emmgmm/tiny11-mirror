@@ -3,7 +3,7 @@ Tiny-11 Mirror
 This is an EU mirror without annoying registration of Tiny11.  These are updated at least 1x per week. 
 
 #### List of the ISO Files here: https://onlinefileupload.de/share/oQv862Q7
-##### Direkt Downlaod: <br>  - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?">Tiny 11 b1</a> 3GB<br> - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2.iso?">Tiny 11 b2</a> 3,6GB<br> - <a href="[https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?](https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2(no%20sysreq).iso?)">Tiny 11 b2 (no sysreq)</a> 3,6GB
+##### Direkt Downlaod: <br>  - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b1.iso?">Tiny 11 b1</a> 3GB<br> - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2.iso?">Tiny 11 b2</a> 3,6GB<br> - <a href="https://onlinefileupload.de/api/public/dl/oQv862Q7%2Ftiny11%20b2(no%20sysreq).iso?">Tiny 11 b2 (no sysreq)</a> 3,6GB
 
 ---
 ## Buy me a coffee
